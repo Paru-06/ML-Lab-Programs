@@ -47,7 +47,7 @@ Each program includes **source code, dataset, and output screenshots** for bette
 **Objective:** Predict whether a patient has diabetes based on medical parameters. 
 
 ### 🔹 Output
-![Diabetes Prediction Output](Program_03_Diabetes_Prediction_Logistic_regression/Ex3_Figure_1.png)
+![Diabetes Prediction Output](Program_03_Diabetes_Prediction_Logistic_Regression/Ex3_Figure_1.png)
 
 ---
 
